@@ -1,0 +1,14 @@
+{
+    "name": "yus8",
+    "description": "dsiugibsd",
+    "logo":"hhaha",
+    "keywords": ["iuygv53678__td7vusvdafsg"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/dihoih/Xrax",
+    "stack": "container"
+}
